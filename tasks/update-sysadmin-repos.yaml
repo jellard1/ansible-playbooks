@@ -1,6 +1,6 @@
 - name: Clone or update repos # noqa: latest
   ansible.builtin.git:
-    repo: git@gitlab.com:kenyon/{{ item }}.git
+    repo: git@gitlab.com:jellard/{{ item }}.git
     dest: "{{ ansible_user_dir }}/git/{{ item }}"
     update: true
   loop:

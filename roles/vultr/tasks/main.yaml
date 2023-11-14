@@ -47,7 +47,7 @@
     path: /etc/resolv.conf
     line: "{{ item }}"
   loop:
-    - search kenyonralph.com
+    - search jellardralph.com
     - options edns0
 
 - name: Remove settings Vultr added (I think)

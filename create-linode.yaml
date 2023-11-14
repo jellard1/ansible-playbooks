@@ -6,7 +6,7 @@
   gather_facts: false
   connection: local
   vars:
-    my_username: kenyon
+    my_username: jellard
     swap_size: 2048
     region: us-west
     image: linode/debian11

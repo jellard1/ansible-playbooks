@@ -1,5 +1,5 @@
 ---
 
-puppet_environments_repository: https://gitlab.com/kenyon/puppet.git
+puppet_environments_repository: https://gitlab.com/jellard/puppet.git
 
 ...

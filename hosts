@@ -9,7 +9,7 @@ router.local
 iMac.local ansible_connection=local
 
 [linode]
-beta.kenyonralph.com
+beta.jellard.com
 
 [puppetserver]
 lithium.local
